@@ -55,7 +55,6 @@
     <orderEntry type="module" module-name="CSC_Kotlin_Course_Part2.common.commonMain" scope="TEST" />
     <orderEntry type="module" module-name="CSC_Kotlin_Course_Part2.common.commonTest" scope="TEST" production-on-test="" />
     <orderEntry type="module" module-name="CSC_Kotlin_Course_Part2.common.jsMain" scope="TEST" />
-    <orderEntry type="module" module-name="CSC_Kotlin_Course_Part2.common.jsMain" scope="RUNTIME" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.7.10" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="CSC_Kotlin_Course_Part2.common.jsMain" />
