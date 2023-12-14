@@ -1,5 +1,4 @@
 type: framework
-custom_name: Words Generator
 content:
   - wordsGeneratorServerIntroduction
   - wordsGeneratorServerHowToRun
@@ -9,4 +8,4 @@ content:
   - wordsGeneratorServerWordService
   - wordsGeneratorServerFinishGame
 is_template_based: false
-current_task: 0
+current_task: 2
