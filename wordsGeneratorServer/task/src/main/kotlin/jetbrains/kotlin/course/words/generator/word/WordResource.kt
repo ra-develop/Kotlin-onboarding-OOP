@@ -2,8 +2,6 @@ package jetbrains.kotlin.course.words.generator.word
 
 import org.springframework.web.bind.annotation.*
 
-typealias Word = String
-
 @RestController
 @RequestMapping("/api/words/")
 class WordResource(val service: WordService) {
