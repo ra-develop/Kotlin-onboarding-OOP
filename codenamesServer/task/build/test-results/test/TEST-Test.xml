@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-15T21:13:59" hostname="McBkPr14M1Pr20vi5.local" time="0.24">
+  <properties/>
+  <testcase name="utilObjectConstValuesTest()" classname="Test" time="0.031"/>
+  <testcase name="utilObjectTestClassTest()" classname="Test" time="0.208"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
