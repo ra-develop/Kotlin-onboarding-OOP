@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Test" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-12-15T17:13:12" hostname="McBkPr14M1Pr20vi5.local" time="0.308">
+<testsuite name="Test" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-12-15T17:26:10" hostname="McBkPr14M1Pr20vi5.local" time="0.344">
   <properties/>
-  <testcase name="[1] keyWord=photomechanochemistry, newWord=, isValid=false" classname="Test" time="0.05"/>
-  <testcase name="[2] keyWord=photomechanochemistry, newWord=lalala, isValid=false" classname="Test" time="0.001"/>
+  <testcase name="[1] keyWord=photomechanochemistry, newWord=, isValid=false" classname="Test" time="0.057"/>
+  <testcase name="[2] keyWord=photomechanochemistry, newWord=lalala, isValid=false" classname="Test" time="0.0"/>
   <testcase name="[3] keyWord=photomechanochemistry, newWord=photo, isValid=true" classname="Test" time="0.003"/>
   <testcase name="[4] keyWord=photomechanochemistry, newWord=photoooooooo, isValid=false" classname="Test" time="0.001"/>
-  <testcase name="[5] keyWord=photomechanochemistry, newWord=photophoto, isValid=false" classname="Test" time="0.0"/>
-  <testcase name="teamTeamServiceTest()" classname="Test" time="0.21"/>
-  <testcase name="wordServiceTest()" classname="Test" time="0.011"/>
-  <testcase name="teamClassTest()" classname="Test" time="0.022"/>
+  <testcase name="[5] keyWord=photomechanochemistry, newWord=photophoto, isValid=false" classname="Test" time="0.001"/>
+  <testcase name="teamTeamServiceTest()" classname="Test" time="0.237"/>
+  <testcase name="wordServiceTest()" classname="Test" time="0.01"/>
+  <testcase name="teamClassTest()" classname="Test" time="0.021"/>
   <testcase name="isNewWordMethodTest()" classname="Test" time="0.001"/>
-  <testcase name="generateTeamsForOneRoundMethodTest()" classname="Test" time="0.002"/>
-  <testcase name="generateNextWordMethodTest()" classname="Test" time="0.002"/>
+  <testcase name="generateTeamsForOneRoundMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="generateNextWordMethodTest()" classname="Test" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
