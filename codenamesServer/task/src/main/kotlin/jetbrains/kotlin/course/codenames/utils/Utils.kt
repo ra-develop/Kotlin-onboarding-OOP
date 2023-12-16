@@ -1,5 +1,7 @@
 package jetbrains.kotlin.course.codenames.utils
 
+import jetbrains.kotlin.course.codenames.keyCard.KeyCardCell
+
 object Utils {
     private const val N = 5
     const val TOTAL_NUMBER = N * N
@@ -18,6 +20,10 @@ object Utils {
         { "The total number of cards in the game must be: $TOTAL_NUMBER" }
     }
 
+}
 
+
+fun interface KeyCardGenerator {
+    fun generateData(): List<KeyCardCell>
 }
 

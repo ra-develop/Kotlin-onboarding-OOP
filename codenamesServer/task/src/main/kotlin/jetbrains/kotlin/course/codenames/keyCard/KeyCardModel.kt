@@ -8,3 +8,6 @@ enum class KeyCardType(val number: Int) {
     Gray(Utils.GRAY_CARDS_NUMBER),
     Black(Utils.BLACK_CARDS_NUMBER)
 }
+
+@JvmInline
+value class KeyCardCell (private val type: KeyCardType)

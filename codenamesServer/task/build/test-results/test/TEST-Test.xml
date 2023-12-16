@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-15T21:55:50" hostname="McBkPr14M1Pr20vi5.local" time="0.339">
+<testsuite name="Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-16T23:17:03" hostname="McBkPr14M1Pr20vi5.local" time="0.355">
   <properties/>
-  <testcase name="utilObjectConstValuesTest()" classname="Test" time="0.029"/>
-  <testcase name="utilObjectTestClassTest()" classname="Test" time="0.203"/>
-  <testcase name="keyCardTypeTestClassTest()" classname="Test" time="0.105"/>
+  <testcase name="utilObjectConstValuesTest()" classname="Test" time="0.03"/>
+  <testcase name="keyCardGeneratorTestClassTest()" classname="Test" time="0.213"/>
+  <testcase name="utilObjectTestClassTest()" classname="Test" time="0.011"/>
+  <testcase name="keyCardTypeTestClassTest()" classname="Test" time="0.1"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
