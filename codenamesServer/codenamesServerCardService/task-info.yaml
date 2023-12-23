@@ -91,6 +91,7 @@ files:
     learner_created: false
   - name: src/main/resources/static/static/js/main.f19b7724.js.map
     visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
   - name: src/main/resources/static/static/js/787.d00c2049.chunk.js
     visible: false
@@ -207,5 +208,12 @@ files:
     visible: false
     encrypted_text: oshn4fpos0/ItWJP6yMtHavhaLTaSXqcIX+D8lRVlb5pjGSFkhD/rHVoi3Dk/C5n06ssqPQGfxOXskRzWeyniw==
     learner_created: false
-status: Unchecked
+  - name: src/main/kotlin/jetbrains/kotlin/course/codenames/card/Card.kt
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: true
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 23 Dec 2023 22:54:42 UTC"
 record: -1
