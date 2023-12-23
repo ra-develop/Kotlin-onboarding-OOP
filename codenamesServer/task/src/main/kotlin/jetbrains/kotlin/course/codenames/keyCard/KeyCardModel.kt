@@ -10,6 +10,6 @@ enum class KeyCardType(val number: Int) {
 }
 
 @JvmInline
-value class KeyCardCell (private val type: KeyCardType)
+value class KeyCardCell (val type: KeyCardType)
 
 data class KeyCard (val cells: List<KeyCardCell> = Utils.uniqueKeyCardGenerator.generateData())
