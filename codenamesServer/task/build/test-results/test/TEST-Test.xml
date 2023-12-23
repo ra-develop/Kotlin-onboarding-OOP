@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Test" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-12-23T21:58:54" hostname="McBkPr14M1Pr20vi5.local" time="0.328">
+<testsuite name="Test" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-12-23T22:11:32" hostname="McBkPr14M1Pr20vi5.local" time="0.388">
   <properties/>
-  <testcase name="keyCardServiceTestClassTest()" classname="Test" time="0.212"/>
-  <testcase name="keyCardTestClassTest()" classname="Test" time="0.029"/>
+  <testcase name="cardDataInterfaceTestClassTest()" classname="Test" time="0.025"/>
+  <testcase name="keyCardServiceTestClassTest()" classname="Test" time="0.218"/>
+  <testcase name="keyCardTestClassTest()" classname="Test" time="0.032"/>
   <testcase name="utilObjectExtendedTestClassTest()" classname="Test" time="0.008"/>
-  <testcase name="utilObjectConstValuesTest()" classname="Test" time="0.001"/>
-  <testcase name="keyCardGeneratorTestClassTest()" classname="Test" time="0.002"/>
+  <testcase name="utilObjectConstValuesTest()" classname="Test" time="0.0"/>
+  <testcase name="wordCardDataTestClassTest()" classname="Test" time="0.003"/>
+  <testcase name="keyCardGeneratorTestClassTest()" classname="Test" time="0.001"/>
   <testcase name="utilObjectTestClassTest()" classname="Test" time="0.002"/>
-  <testcase name="keyCardTypeTestClassTest()" classname="Test" time="0.073"/>
+  <testcase name="keyCardTypeTestClassTest()" classname="Test" time="0.094"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
