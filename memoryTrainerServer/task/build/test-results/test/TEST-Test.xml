@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-24T15:50:51" hostname="McBkPr14M1Pr20vi5.local" time="0.208">
+<testsuite name="Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-12-24T23:37:06" hostname="McBkPr14M1Pr20vi5.local" time="0.32">
   <properties/>
-  <testcase name="cardSequenceGeneratorTestClassTest()" classname="Test" time="0.19"/>
-  <testcase name="cardTestClassTest()" classname="Test" time="0.018"/>
+  <testcase name="cardSequenceGeneratorTestClassTest()" classname="Test" time="0.231"/>
+  <testcase name="randomCardGeneratorMethodTest()" classname="Test" time="0.028"/>
+  <testcase name="getNextCardMethodTest()" classname="Test" time="0.009"/>
+  <testcase name="startNewGameMethodTest()" classname="Test" time="0.008"/>
+  <testcase name="cardTestClassTest()" classname="Test" time="0.03"/>
+  <testcase name="cardServiceTest()" classname="Test" time="0.009"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
