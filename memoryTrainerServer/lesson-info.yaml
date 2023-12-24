@@ -7,4 +7,4 @@ content:
   - memoryTrainerServerCardService
   - memoryTrainerServerFinishGame
 is_template_based: false
-current_task: 1
+current_task: 2

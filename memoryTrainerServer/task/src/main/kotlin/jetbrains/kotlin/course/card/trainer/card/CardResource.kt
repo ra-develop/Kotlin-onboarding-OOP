@@ -3,8 +3,6 @@ package jetbrains.kotlin.course.card.trainer.card
 import card.trainer.JsCardTrainerModel
 import org.springframework.web.bind.annotation.*
 
-typealias Card = String
-
 @RestController
 @RequestMapping("/api/cards/")
 class CardResource(val service: CardService) {
