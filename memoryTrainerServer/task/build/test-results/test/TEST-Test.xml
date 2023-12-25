@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-12-24T23:37:06" hostname="McBkPr14M1Pr20vi5.local" time="0.32">
+<testsuite name="Test" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-12-24T23:53:53" hostname="McBkPr14M1Pr20vi5.local" time="0.388">
   <properties/>
-  <testcase name="cardSequenceGeneratorTestClassTest()" classname="Test" time="0.231"/>
-  <testcase name="randomCardGeneratorMethodTest()" classname="Test" time="0.028"/>
-  <testcase name="getNextCardMethodTest()" classname="Test" time="0.009"/>
-  <testcase name="startNewGameMethodTest()" classname="Test" time="0.008"/>
-  <testcase name="cardTestClassTest()" classname="Test" time="0.03"/>
-  <testcase name="cardServiceTest()" classname="Test" time="0.009"/>
+  <testcase name="cardSequenceGeneratorTestClassTest()" classname="Test" time="0.23"/>
+  <testcase name="getHistoryMethodTest()" classname="Test" time="0.024"/>
+  <testcase name="randomCardGeneratorMethodTest()" classname="Test" time="0.017"/>
+  <testcase name="statTestClassTest()" classname="Test" time="0.031"/>
+  <testcase name="statServiceTestClassTest()" classname="Test" time="0.004"/>
+  <testcase name="getNextCardMethodTest()" classname="Test" time="0.008"/>
+  <testcase name="startNewGameMethodTest()" classname="Test" time="0.009"/>
+  <testcase name="cardTestClassTest()" classname="Test" time="0.009"/>
+  <testcase name="saveMethodTest()" classname="Test" time="0.042"/>
+  <testcase name="cardServiceTest()" classname="Test" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
